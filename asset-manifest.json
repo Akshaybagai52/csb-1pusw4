@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "https://akshaybagai52.github.io/csb-1pusw4/static/css/main.cdea0e77.chunk.css",
-    "main.js": "https://akshaybagai52.github.io/csb-1pusw4/static/js/main.618d6878.chunk.js",
-    "main.js.map": "https://akshaybagai52.github.io/csb-1pusw4/static/js/main.618d6878.chunk.js.map",
-    "runtime-main.js": "https://akshaybagai52.github.io/csb-1pusw4/static/js/runtime-main.70ecb518.js",
-    "runtime-main.js.map": "https://akshaybagai52.github.io/csb-1pusw4/static/js/runtime-main.70ecb518.js.map",
-    "static/js/2.9e8d19ae.chunk.js": "https://akshaybagai52.github.io/csb-1pusw4/static/js/2.9e8d19ae.chunk.js",
-    "static/js/2.9e8d19ae.chunk.js.map": "https://akshaybagai52.github.io/csb-1pusw4/static/js/2.9e8d19ae.chunk.js.map",
+    "main.css": "https://akshaybagai52.github.io/csb-1pusw4/static/css/main.4a663874.chunk.css",
+    "main.js": "https://akshaybagai52.github.io/csb-1pusw4/static/js/main.9d107ec3.chunk.js",
+    "main.js.map": "https://akshaybagai52.github.io/csb-1pusw4/static/js/main.9d107ec3.chunk.js.map",
+    "runtime-main.js": "https://akshaybagai52.github.io/csb-1pusw4/static/js/runtime-main.e3e14b4c.js",
+    "runtime-main.js.map": "https://akshaybagai52.github.io/csb-1pusw4/static/js/runtime-main.e3e14b4c.js.map",
+    "static/js/2.3785fc55.chunk.js": "https://akshaybagai52.github.io/csb-1pusw4/static/js/2.3785fc55.chunk.js",
+    "static/js/2.3785fc55.chunk.js.map": "https://akshaybagai52.github.io/csb-1pusw4/static/js/2.3785fc55.chunk.js.map",
     "index.html": "https://akshaybagai52.github.io/csb-1pusw4/index.html",
-    "static/css/main.cdea0e77.chunk.css.map": "https://akshaybagai52.github.io/csb-1pusw4/static/css/main.cdea0e77.chunk.css.map",
-    "static/js/2.9e8d19ae.chunk.js.LICENSE.txt": "https://akshaybagai52.github.io/csb-1pusw4/static/js/2.9e8d19ae.chunk.js.LICENSE.txt",
-    "static/media/crown.207ae289.svg": "https://akshaybagai52.github.io/csb-1pusw4/static/media/crown.207ae289.svg"
+    "static/css/main.4a663874.chunk.css.map": "https://akshaybagai52.github.io/csb-1pusw4/static/css/main.4a663874.chunk.css.map",
+    "static/js/2.3785fc55.chunk.js.LICENSE.txt": "https://akshaybagai52.github.io/csb-1pusw4/static/js/2.3785fc55.chunk.js.LICENSE.txt",
+    "static/media/crown.207ae289.svg": "https://akshaybagai52.github.io/csb-1pusw4/static/media/crown.207ae289.svg",
+    "static/media/shopping-card.a688874f.svg": "https://akshaybagai52.github.io/csb-1pusw4/static/media/shopping-card.a688874f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.70ecb518.js",
-    "static/js/2.9e8d19ae.chunk.js",
-    "static/css/main.cdea0e77.chunk.css",
-    "static/js/main.618d6878.chunk.js"
+    "static/js/runtime-main.e3e14b4c.js",
+    "static/js/2.3785fc55.chunk.js",
+    "static/css/main.4a663874.chunk.css",
+    "static/js/main.9d107ec3.chunk.js"
   ]
 }
